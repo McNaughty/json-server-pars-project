@@ -2,7 +2,7 @@
     "events": [
     {
       "id": 1,
-      "event": "Tech Summit 2023",
+      "title": "Tech Summit 2023",
       "startdate": "2023-03-20",
       "enddate": "2023-03-20",
       "location": "Tech Hub Exhibition Center",
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "event": "Art Expo",
+      "title": "Art Expo",
       "startdate": "2023-04-05",
       "enddate": "2023-04-05",
       "location": "City Art Gallery",
@@ -20,7 +20,7 @@
     },
     {
       "id": 3,
-      "event": "Fitness Bootcamp",
+      "title": "Fitness Bootcamp",
       "startdate": "2023-05-13",
       "enddate": "2023-05-15",
       "location": "FitZone Gym",
@@ -29,7 +29,7 @@
     },
     {
       "id": 4,
-      "event": "Green Innovation Forum",
+      "title": "Green Innovation Forum",
       "startdate": "2023-06-01",
       "enddate": "2023-06-02",
       "location": "GreenTech Center",
@@ -38,7 +38,7 @@
     },
     {
       "id": 5,
-      "event": "Food Festival",
+      "title": "Food Festival",
       "startdate": "2023-07-10",
       "enddate": "2023-07-10",
       "location": "City Park",
@@ -47,7 +47,7 @@
     },
     {
       "id": 6,
-      "event": "Music Workshop",
+      "title": "Music Workshop",
       "startdate": "2023-08-14",
       "enddate": "2023-08-18",
       "location": "Harmony Music School",
@@ -56,7 +56,7 @@
     },
     {
       "id": 7,
-      "event": "Health and Wellness Expo",
+      "title": "Health and Wellness Expo",
       "startdate": "2023-09-05",
       "enddate": "2023-09-05",
       "location": "Wellness Center",
@@ -65,7 +65,7 @@
     },
     {
       "id": 8,
-      "event": "Business Networking Mixer",
+      "title": "Business Networking Mixer",
       "startdate": "2023-10-10",
       "enddate": "2023-10-12",
       "location": "City Business Hub",
@@ -74,7 +74,7 @@
     },
     {
       "id": 9,
-      "event": "Science Fair",
+      "title": "Science Fair",
       "startdate": "2023-11-01",
       "enddate": "2023-11-08",
       "location": "City Science Museum",
@@ -83,7 +83,7 @@
     },
     {
       "id": 10,
-      "event": "Winter Wonderland Gala",
+      "title": "Winter Wonderland Gala",
       "startdate": "2023-12-10",
       "enddate": "2023-12-20",
       "location": "Grand Ballroom",
